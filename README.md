@@ -17,13 +17,14 @@ Express.Js <img src="https://github.com/tomchen/stack-icons/raw/master/logos/exp
 MongoDB <img src="https://github.com/tomchen/stack-icons/raw/master/logos/mongodb-icon.svg" width="20" height="20">|
 Firebase** <img src="https://img.icons8.com/color/452/firebase.png" width="20" height="20">
 
-<h2 align="left">Know more about me <img src="https://static.thenounproject.com/png/135447-200.png" width="20" height=20"/></h2>
+<h2 align="left">Know more about me <img src="https://static.thenounproject.com/png/135447-200.png" width="30" height=30"/></h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/agustinmoranr/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="35" width="35" />
+    <img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin" height="35" width="35" />
   </a>
   <a href="https://www.instagram.com/agustin_moran_/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  alt="instagram" height="35" width="35" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"  alt="instagram" height="35" width="35" />
   </a>
 </p>
 
