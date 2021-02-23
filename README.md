@@ -30,7 +30,7 @@ Firebase** <img src="https://img.icons8.com/color/452/firebase.png" width="20" h
 
 </br>
 
-*<p align=center>Youn and Ardent<p>*
+*<p align=center>Young and Ardent<p>*
 <!--
 **agustinmoranr/agustinmoranr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
